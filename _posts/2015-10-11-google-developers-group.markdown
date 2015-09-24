@@ -35,10 +35,10 @@ Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut
 [x] a
 [] b
 
-```python
+~~~python
 import ok
 print "nice done"
-```
+~~~
 
 > This a said by Jeff Li
-haha 
+haha
