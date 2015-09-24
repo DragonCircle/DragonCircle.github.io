@@ -34,3 +34,8 @@ Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut
 
 [x] a
 [] b
+
+```python
+import ok
+print "nice done"
+```
