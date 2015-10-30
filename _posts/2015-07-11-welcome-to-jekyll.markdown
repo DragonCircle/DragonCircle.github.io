@@ -8,7 +8,7 @@ image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
 ## 选择的书
 
-现在实验室举办了机器学习的沙龙，选择的是Bishop的_Pattern recognition and machine learning_一书
+现在实验室举办了机器学习的沙龙，选择的是Bishop的 _Pattern recognition and machine learning_ 一书
 
 [pic]: /images/PRML_cover.jpg
 

@@ -5,9 +5,10 @@ date:   2015-10-30 11:09:00s
 categories: EDG
 highlight: true
 ---
+
 ## 选择的书
 
-夏明哥明年要毕业了，现在实验室举办了机器学习的沙龙，选择的是Bishop的_Pattern recognition and machine learning_一书
+现在实验室举办了机器学习的沙龙，选择的是Bishop的_Pattern recognition and machine learning_一书
 
 [pic]: /images/PRML_cover.jpg
 
