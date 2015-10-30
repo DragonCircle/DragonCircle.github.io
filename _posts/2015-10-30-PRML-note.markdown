@@ -79,7 +79,7 @@ highlight: true
 
 ## Overfitting
 
-![pic](images/overfitting.png)
+![pic](/images/overfitting.png)
 
 ## Markdown公式输入测试:
 
