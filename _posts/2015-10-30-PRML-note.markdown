@@ -80,6 +80,9 @@ highlight: true
 ## Overfitting
 
 ![pic](/images/overfitting.png)
+
+原始的10个蓝圈,是由`sin(2pix)+noise()`函数产生的十个数据点,但选择使用多项式来拟合,随着拟合的阶次上升,虽然误差看起来越来越低,但摆动越来越剧烈,对于`sin(2pix)`的表示越来越差,虽然对现有数据的拟合程度变高,但是对于新数据的准确率却降低,这种现象成为过拟合.
+
 ## Markdown公式输入测试:
 
 1. forkosh服务器方法
