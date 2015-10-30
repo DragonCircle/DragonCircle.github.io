@@ -8,7 +8,8 @@ highlight: true
 
 现在实验室举办了机器学习的沙龙，选择的是Bishop的 _Pattern recognition and machine learning_ 一书
 
-[pic]: /images/PRML_cover.jpg
+![pic](/images/PRML_cover.jpg)
+
 
 # Introduction
 
@@ -75,6 +76,10 @@ highlight: true
 >Reinforcement learning is concerned with the problem of finding suitable actions to take in a given situation in order to maximize a reward.
 
 强化学习是找到合适的动作,使得给定情况下的奖励最大化.
+
+## Overfitting
+
+![pic](images/overfitting.png)
 
 ## Markdown公式输入测试:
 
