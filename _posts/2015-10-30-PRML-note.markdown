@@ -12,6 +12,8 @@ highlight: true
 
 # Introduction
 
+待学习的课程 _CS109_ _CS171_
+
 ### 数据处理原则
 
 > test data must be pre-processed using the same steps as the training data
@@ -74,3 +76,18 @@ highlight: true
 
 强化学习是找到合适的动作,使得给定情况下的奖励最大化.
 
+## Markdown公式输入测试:
+
+1. forkosh服务器方法
+
+`<img src="http://www.forkosh.com/mathtex.cgi? \Large E(w)=\frac{1}2\sum_{n=1}^N \left\{y(x_n,w)}-t_n\right\}^2">">`
+
+<img src="http://www.forkosh.com/mathtex.cgi? \Large E(w)=\frac{1}2\sum_{n=1}^N \left\{y(x_n,w)}-t_n\right\}^2">
+
+2. Google chart 服务器方法
+
+`<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large E(w)=\frac{1}2\sum_{n=1}^N \left\{y(x_n,w)}-t_n\right\}^2" style="border:none;">`
+
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large E(w)=\frac{1}2\sum_{n=1}^N \left\{y(x_n,w)}-t_n\right\}^2" style="border:none;">
+
+**求问:google chart返回的公式里tn右边多了右键头?百思不得其解**
