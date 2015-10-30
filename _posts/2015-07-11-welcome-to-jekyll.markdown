@@ -26,21 +26,21 @@ image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 
 >Applications in which the training data comprises examples of the input vectors along with their corresponding target vectors as know as _supervised learning_
 
-训练集中包含有_输入向量_和_目标向量(target vector)_的应用为监督学习
+训练集中包含有 _输入向量_ 和 _目标向量(target vector)_ 的应用为监督学习
 
-监督学习又分为_分类(Classification)_和_回归(Regression)_两种问题
+监督学习又分为 _分类(Classification)_ 和 _回归(Regression)_ 两种问题
 
 分类的定义为
 
 > Aim is to assign each input vector to one of a finite number of discrete categories
 
-任务目标是将输入向量分类为一组有限的离散类别,为_分类(Classification)_
+任务目标是将输入向量分类为一组有限的离散类别,为 _分类(Classification)_ 
 
 回归的定义为
 
 >Desired output consists of one or more continuouts variabels
 
-目标输出是一个或多个连续的变量,则是_回归(Regression)_
+目标输出是一个或多个连续的变量,则是 _回归(Regression)_
 
 ## Unsupervised Learning
 
