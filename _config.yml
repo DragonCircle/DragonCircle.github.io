@@ -2,7 +2,7 @@
 title: Jeff's Blog
 motto: 胸怀凌云志，做好眼前事
 email: jeffli@sjtu.edu.cn
-description: > Life is short, have a blog site.
+description: "Life is short, have a blog site."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lilongyuan.me" # the base hostname & protocol for your site
 twitter_username: lly930514
