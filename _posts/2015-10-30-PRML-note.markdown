@@ -5,7 +5,6 @@ date:   2015-10-30 11:09:00s
 categories: EDG
 highlight: true
 ---
-## 选择的书
 
 现在实验室举办了机器学习的沙龙，选择的是Bishop的 _Pattern recognition and machine learning_ 一书
 
@@ -49,6 +48,29 @@ highlight: true
 
 训练集只包含输入向量X,没有相应的目标向量,则此问题为无监督学习.
 
-聚类
+###聚类
 
 >The goal is such _unsupervised learning_ problems may be to discover groups of similar examples within the data.
+
+目标是在无监督学习红,在数据中发现相似的组.
+
+###核密度估计(Density estimation)
+
+>Determine the distribution of data within the input space.
+
+发现输入的分布.
+
+###降维--可视化
+
+> Project the data from a high-dimensional space down to two or three dimensions for the purpose of visualization.
+
+将高纬度空间映射到两到三维,从而实现 _可视化(Visualization)_ .
+
+## Reinforcement Learning
+
+最后,还有一种技术叫 _强化学习(reinforcement learning)_
+
+>Reinforcement learning is concerned with the problem of finding suitable actions to take in a given situation in order to maximize a reward.
+
+强化学习是找到合适的动作,使得给定情况下的奖励最大化.
+
